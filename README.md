@@ -17,9 +17,9 @@
   </a>
 </h3>
 
-<h3 align="center">
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=eddycak37.eddycak37&"  />
-</h3>
+</p>
  
 <h1 align="center">Hey there! 👋</h1>
 
