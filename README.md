@@ -1,10 +1,8 @@
-<div align="center">
+<p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRheWV4eTdrODg2ZDZoNno0aXU5YzBibDdkajA0YmlvNXMxNWoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6YvAwTUtSP1KM/giphy.gif"/>
-</div>
+</p>
 
-###
-
-<div align="center">
+<h3 align="center">
   <a href="www.linkedin.com/in/edward-cake-guindon-59918538b" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -17,33 +15,25 @@
   <a href="https://www.twitch.tv/l_skygod_l" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   </a>
-</div>
+</h3>
 
-###
-
-<div align="center">
+<h3 align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=eddycak37.eddycak37&"  />
-</div>
+</h3>
+ 
+<h1 align="center">Hey there! 👋</h1>
 
-###
+<h2>👩‍💻  About Me</h2>
 
-<h1 align="left">Hey there! 👋</h1>
+I'm from Montreal, Canada
 
-###
+- 🔭 I'm currently unemployed and actively looking for a job. I have experience in cooking, administration, finance and computers
+- 📚 I'm currently learning to create my own homelab. I've done one in the past with a couple of stuffs on an old computer, but I didn't had all the hardware required to implement what I wanted and it wasn't properly done. Since then, I've changed my mind and I'm planning to create a light self-hosting server using Proxmox VE.
+- ⚡ In my free time I love to read manhuas. I also spend most of my time gaming on PC and console. I love to go to the gym and I'm also trying to learn by myself Muay Thai and Boxing.
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2>🛠 Language and tools</h2>
 
-###
-
-<p align="left">I'm from Montreal, Canada<br><br>- 🔭 I'm currently unemployed and actively looking for a job. I have experience in cooking, administration, finance and computers<br>- 📚 I'm currently learning to create my own homelab. I've done one in the past with a couple of stuffs on an old computer, but I didn't had all the hardware required to implement what I wanted and it wasn't properly done. Since then, I've changed my mind and I'm planning to create a light self-hosting server using Proxmox VE.<br>- ⚡ In my free time I love to read manhuas. I also spend most of my time gaming on PC and console. I love to go to the gym and I'm also trying to learn by myself Muay Thai and Boxing.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="center">
+<h1 align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
@@ -59,12 +49,10 @@
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="androidstudio logo"  />
-</div>
+</h1>
 
-###
+<h2>$ If you wish to support me</h2>
 
-<h3 align="leftr">$ If you wish to support me </h3>
-
-<h3 align="center">
 <a href="https://www.buymeacoffee.com/eddycak37" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-</h3>
+
+#### Finally, big thank you to [Profile Readme Generator](https://profile-readme-generator.com/) for helping me create this Readme page
