@@ -34,7 +34,7 @@ I'm from Montreal, Canada
 Here some files:
 - [Daddy Eddy's story](https://share.vandall.com/file/l8n4hDUmzffc)
 - [Daddy Eddy's education](https://share.vandall.com/file/9WS2MKBfwduZ)
-- [Memes found by Daddy Eddy:](https://share.vandall.com/file/N6XvVu71N6nV)
+- [Memes found by Daddy Eddy](https://share.vandall.com/file/N6XvVu71N6nV)
 
 <h2>🛠 Language and tools</h2>
 
