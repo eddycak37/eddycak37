@@ -12,7 +12,7 @@
   <a href="https://www.facebook.com/edward.cakeguindon" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="https://www.twitch.tv/l_skygod_l" target="_blank">
+  <a href="https://www.twitch.tv/daddyeddygaming" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   </a>
 </h3>
