@@ -32,9 +32,9 @@ I'm from Montreal, Canada
 - ⚡ In my free time I love to read manhuas. I also spend most of my time gaming on PC and console. I love to go to the gym and I'm also trying to learn by myself Muay Thai and Boxing.
 
 Here some files to understand who I AM, what I DID and MY STORY:
-- [Daddy Eddy's story](https://share.vandall.com/file/l8n4hDUmzffc)
-- [Daddy Eddy's education](https://share.vandall.com/file/9WS2MKBfwduZ)
-- [Memes found by Daddy Eddy](https://share.vandall.com/file/N6XvVu71N6nV)
+- [Daddy Eddy's story](https://share.vandall.com/file/l8n4hDUmzffc): https://share.vandall.com/file/l8n4hDUmzffc
+- [Daddy Eddy's education](https://share.vandall.com/file/9WS2MKBfwduZ): https://share.vandall.com/file/9WS2MKBfwduZ
+- [Memes found by Daddy Eddy](https://share.vandall.com/file/N6XvVu71N6nV): https://share.vandall.com/file/N6XvVu71N6nV
 
 <h2>🛠 Language and tools</h2>
 
