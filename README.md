@@ -31,7 +31,7 @@ I'm from Montreal, Canada
 - 📚 I'm currently learning to create my own homelab. I've done one in the past with a couple of stuffs on an old computer, but I didn't had all the hardware required to implement what I wanted and it wasn't properly done. Since then, I've changed my mind and I'm planning to create a light self-hosting server using Proxmox VE.
 - ⚡ In my free time I love to read manhuas. I also spend most of my time gaming on PC and console. I love to go to the gym and I'm also trying to learn by myself Muay Thai and Boxing.
 
-Here some files:
+Here some files to understand who I AM, what I DID and MY STORY:
 - [Daddy Eddy's story](https://share.vandall.com/file/l8n4hDUmzffc)
 - [Daddy Eddy's education](https://share.vandall.com/file/9WS2MKBfwduZ)
 - [Memes found by Daddy Eddy](https://share.vandall.com/file/N6XvVu71N6nV)
