@@ -60,4 +60,6 @@ Here some files to understand who I AM, what I DID and MY STORY:
 
 <a href="https://www.buymeacoffee.com/eddycak37" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H01SXZC7)
+
 #### Finally, big thank you to [Profile Readme Generator](https://profile-readme-generator.com/) for helping me create this Readme page
