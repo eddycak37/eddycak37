@@ -36,6 +36,8 @@ Here some files to understand who I AM, what I DID and MY STORY:
 - [Daddy Eddy's education](https://share.vandall.com/file/9WS2MKBfwduZ): https://share.vandall.com/file/9WS2MKBfwduZ
 - [Memes found by Daddy Eddy](https://share.vandall.com/file/N6XvVu71N6nV): https://share.vandall.com/file/N6XvVu71N6nV
 
+-Signed by your cisgender straight homeboy tired of creepers (Minecraft)
+
 <h2>🛠 Language and tools</h2>
 
 <h1 align="left">
