@@ -30,6 +30,7 @@ I'm from Montreal, Canada
 - 🔭 I'm currently unemployed (I am still but can't get hours since February 2025) and actively looking for a job. I have experience in cooking, administration, finance and computers
 - 📚 I'm currently learning to create my own homelab. I've done one in the past with a couple of stuffs on an old computer, but I didn't had all the hardware required to implement what I wanted and it wasn't properly done. Since then, I've changed my mind and I'm planning to create a light self-hosting server using Proxmox VE.
 - ⚡ In my free time I love to read manhuas. I also spend most of my time gaming on PC and console. I love to go to the gym and I'm also trying to learn by myself Muay Thai and Boxing.
+- 👩‍💻 I am currently dealing with some fags taking my identities
 
 Here some files to understand who I AM, what I DID and MY STORY:
 - [Daddy Eddy's story](https://share.vandall.com/file/B3ptK87MsUUs): https://share.vandall.com/file/B3ptK87MsUUs
