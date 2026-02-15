@@ -35,6 +35,7 @@ I'm from Montreal, Canada
 Here some files to understand who I AM, what I DID and MY STORY:
 - [Daddy Eddy's story](https://share.vandall.com/file/B3ptK87MsUUs): https://share.vandall.com/file/B3ptK87MsUUs
 - [Daddy Eddy's education and Career](https://share.vandall.com/file/zgef6lH1vGsC): https://share.vandall.com/file/zgef6lH1vGsC
+- [Judicial documents](https://share.vandall.com/file/-jDuQzntydLQ): https://share.vandall.com/file/-jDuQzntydLQ
 - [Memes found by Daddy Eddy](https://share.vandall.com/file/N6XvVu71N6nV): https://share.vandall.com/file/N6XvVu71N6nV
 
 -Signed by your cisgender straight homeboy tired of creepers (Minecraft) and identity theft
